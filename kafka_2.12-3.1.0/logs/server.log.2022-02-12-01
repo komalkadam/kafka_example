@@ -1,0 +1,4 @@
+[2022-02-12 03:22:59,988] INFO Expiring session 0x10004ff6c8f0008, timeout of 18000ms exceeded (org.apache.zookeeper.server.ZooKeeperServer)
+[2022-02-12 03:23:00,417] INFO Expiring session 0x10004ff6c8f0007, timeout of 18000ms exceeded (org.apache.zookeeper.server.ZooKeeperServer)
+[2022-02-12 03:23:01,959] INFO Invalid session 0x10004ff6c8f0008 for client /0:0:0:0:0:0:0:1:62651, probably expired (org.apache.zookeeper.server.ZooKeeperServer)
+[2022-02-12 03:23:02,218] INFO Invalid session 0x10004ff6c8f0007 for client /0:0:0:0:0:0:0:1:62657, probably expired (org.apache.zookeeper.server.ZooKeeperServer)

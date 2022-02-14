@@ -1,0 +1,1 @@
+[2022-02-14 10:20:29,785] INFO [BrokerToControllerChannelManager broker=1 name=alterIsr] Node 1 disconnected. (org.apache.kafka.clients.NetworkClient)
